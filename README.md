@@ -1,3 +1,29 @@
+Desafio Backend Challenge Space Flight News
+
+
+Credenciais do banco de dados no Heruko
+
+Host = ec2-3-224-164-189.compute-1.amazonaws.com
+Database = d7tcss790mfde9
+User = vtewlmdhjpohjt
+Port = 5432
+Password = 89f4dd93dd4fbc3c2bf75f65392b8f83954f109902afd6f31be17bbceae4e379
+
+
+1 - Baixar o projeto
+2 - Instale o composer e o Laravel 8
+3 - na pasta raiz do projeto rode o comando => php artisan server
+
+Rotas da Api
+
+root - localhost:8000/api/
+get - localhost:8000/api/articles
+get - localhost:8000/api/articles/{id}
+post - localhost:8000/api/articles/
+put - localhost:8000/api/articles/{id}
+delete - localhost:8000/api/articles/{id}
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
